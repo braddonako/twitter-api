@@ -1,0 +1,22 @@
+{
+  "name": "twitter-api",
+  "version": "1.0.0",
+  "description": "Nodejs twitter bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/braddonako/twitter-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/braddonako/twitter-api/issues"
+  },
+  "homepage": "https://github.com/braddonako/twitter-api#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
